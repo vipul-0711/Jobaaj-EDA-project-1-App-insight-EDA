@@ -1,12 +1,12 @@
-# 📱 Google Play Store App Insights
+#  Google Play Store App Insights
 
-## 📌 Overview
+##  Overview
 
 This project performs comprehensive Exploratory Data Analysis (EDA) on the Google Play Store dataset to understand app performance, user engagement, ratings, installs, pricing strategies, and category trends.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze app categories
 - Study ratings and reviews
@@ -16,7 +16,7 @@ This project performs comprehensive Exploratory Data Analysis (EDA) on the Googl
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 - Data Cleaning
 - Handling Missing Values
@@ -28,7 +28,7 @@ This project performs comprehensive Exploratory Data Analysis (EDA) on the Googl
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 - App Category Distribution
 - Rating Distribution
@@ -42,7 +42,7 @@ This project performs comprehensive Exploratory Data Analysis (EDA) on the Googl
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -53,7 +53,7 @@ This project performs comprehensive Exploratory Data Analysis (EDA) on the Googl
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Google-PlayStore-EDA/
@@ -66,7 +66,7 @@ Google-PlayStore-EDA/
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Most apps are free.
 - Family and Game categories contain the highest number of applications.
@@ -76,7 +76,7 @@ Google-PlayStore-EDA/
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Visualization
@@ -87,7 +87,7 @@ Google-PlayStore-EDA/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - App Rating Prediction
 - Sentiment Analysis on Reviews
@@ -96,7 +96,7 @@ Google-PlayStore-EDA/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Vipul Raj
 <img width="1536" height="1024" alt="app insight" src="https://github.com/user-attachments/assets/03a2dc16-9200-4866-a899-0d59ca18ba6e" />
